@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 无所事事的17岁大学生小麦
+## 小麦 Triticum
 
 致力于机器学习，神经网络，以及一些个人脚本
 
@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.instagram.com/triticum_wheat/"><code><img height="20" width="50" src="./images/download.png"></code></a>: triticum_wheat
+-   <a href="https://www.instagram.com/triticum_wheat/"><code><img height="20" width="20" src="./images/download.jpg"></code></a>: triticum_wheat
 
 ### **技术栈:**
 
