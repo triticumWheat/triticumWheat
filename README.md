@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 无所事事的17岁大学生小麦
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+致力于机器学习，神经网络，以及一些个人脚本
 
 ### **社交主页：**
 
