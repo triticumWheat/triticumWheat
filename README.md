@@ -10,6 +10,7 @@
 
 
 -   <a href="https://www.instagram.com/triticum_wheat/"><code><img height="20" width="20" src="./images/download.jpg"></code></a>: triticum_wheat
+-   <a href="https://steamcommunity.com/id/neverendingwheat/"><code><img height="20" width="20" src="./images/images.jpg"></code></a>: Maimaiko
 
 ### **技术栈:**
 
