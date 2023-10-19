@@ -18,7 +18,7 @@
 
 
 ### Github 活跃度
-
+![Anurag's GitHub stats](https://graph-deployment.vercel.app/api?username=triticumWheat&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![](https://activity-graph.herokuapp.com/graph?username=triticumWheat&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![triticumWheat's github stats](https://github-readme-stats.vercel.app/api?username=triticumWheat&show_icons=true&theme=vue)
 
