@@ -21,5 +21,5 @@
 ### Github 活跃度
 ![triticumWheat's github stats](http://github-readme-stats-gamma-plum-63.vercel.app//api?username=triticumWheat&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triticumWheat&langs_count=6)
+![Top Langs](http://github-readme-stats-gamma-plum-63.vercel.app/api/top-langs/?username=triticumWheat&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=triticumWheat&layout=compact&langs_count=6)
