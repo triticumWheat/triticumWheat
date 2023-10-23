@@ -17,6 +17,7 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><code><img height="20" src="./images/flask.jpg"></code></a>
+<a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
 
 
 ### Github 活跃度
