@@ -19,7 +19,7 @@
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><code><img height="20" src="./images/flask.jpg"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
-<a href="https://www.mysql.com/"><code><img height="20" src="./images/mysql.png"></code></a>
+<a href="https://www.mysql.com/"><code><img height="20" src="./images/mysql.jpg"></code></a>
 
 
 ### Github 活跃度
