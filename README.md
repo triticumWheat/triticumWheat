@@ -11,7 +11,6 @@
 
 
 -   <a href="https://www.instagram.com/triticum_wheat/"><code><img height="20" width="20" src="./images/download.jpg"></code></a>: triticum_wheat
--   <a href="https://steamcommunity.com/id/M4ima1k0/"><code><img height="20" width="20" src="./images/images.jpg"></code></a>: M4ima1k0.o
 -   <a href="https://mingyuan.myportfolio.com/about-me"><code><img height="20" width="20" src="./images/portfolio.png"></code></a>: mmk
 
 ### **過去項目:**
